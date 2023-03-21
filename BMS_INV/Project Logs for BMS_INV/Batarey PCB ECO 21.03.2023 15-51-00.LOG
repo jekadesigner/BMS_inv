@@ -1,0 +1,352 @@
+Added Component: Designator=BAT1(21700_BAT)
+Added Component: Designator=BAT2(21700_BAT)
+Added Component: Designator=BAT3(21700_BAT)
+Added Component: Designator=C24(C-0805)
+Added Component: Designator=C25(C-0805)
+Added Component: Designator=C26(C-0805)
+Added Component: Designator=C27(C-0805)
+Added Component: Designator=CN1(Batarey_connector)
+Added Component: Designator=CN2(Batarey_connector)
+Added Component: Designator=Q19(On_Semiconductor_318-08_IPC_A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt5401lt1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5401LT1G?qs=R2UZ7gjkEjK19vIt05hkDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q23(On_Semiconductor_318-08_IPC_A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt5401lt1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5401LT1G?qs=R2UZ7gjkEjK19vIt05hkDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q24(On_Semiconductor_318-08_IPC_A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt5401lt1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5401LT1G?qs=R2UZ7gjkEjK19vIt05hkDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q25(On_Semiconductor_318-08_IPC_A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt5401lt1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5401LT1G?qs=R2UZ7gjkEjK19vIt05hkDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q26(On_Semiconductor_318-08_IPC_A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt5401lt1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT5401LT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT5401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5401LT1G?qs=R2UZ7gjkEjK19vIt05hkDw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R2(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R3(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R4(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R5(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R6(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R7(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R8(TE_Connectivity_CRGCQ1210_IPC_A)
+Added Component: Designator=R68(R-0805)
+Added Component: Designator=R74(R-0805)
+Added Component: Designator=R75(R-0805)
+Added Component: Designator=R76(R-0805)
+Added Component: Designator=R77(R-0805)
+Added Component: Designator=R78(R-0805)
+Added Component: Designator=R79(R-0805)
+Added Component: Designator=R80(R-0805)
+Added Component: Designator=R81(R-0805)
+Added Component: Designator=R82(R-0805)
+Added Component: Designator=R83(R-0805)
+Added Component: Designator=R84(R-0805)
+Added Component: Designator=R85(R-0805)
+Added Component: Designator=R86(R-0805)
+Added Component: Designator=R87(R-0805)
+Added Component: Designator=R88(R-0805)
+Added Component: Designator=R89(R-0805)
+Added Component: Designator=R90(R-0805)
+Added Component: Designator=R91(R-0805)
+Added Component: Designator=R92(R-0805)
+Added Component: Designator=R93(R-0805)
+Added Component: Designator=R94(R-0805)
+Added Component: Designator=R95(R-0805)
+Added Component: Designator=TP21(TEST_POINT_CONN)
+Added Component: Designator=TP22(TEST_POINT_CONN)
+Added Component: Designator=TP26(TEST_POINT_CONN)
+Added Component: Designator=TP27(TEST_POINT_CONN)
+Added Component: Designator=U8(HY2213)
+Added Component: Designator=U9(HY2213)
+Added Component: Designator=U10(HY2213)
+Added Component: Designator=U11(HY2213)
+Added Component: Designator=U12(HY2213)
+Added Component: Designator=U13(HY2213)
+Added Component: Designator=VT22(On_Semiconductor_318-08_IPC_A)
+Added Component: Designator=VT23(On_Semiconductor_318-08_IPC_A)
+Added Component: Designator=VT24(On_Semiconductor_318-08_IPC_A)
+Added Component: Designator=X1(XT60-F AMASS)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðàçú¸ì, XT60-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypå"; Value = "Ðàçú¸ì"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-3
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-5
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-7
+Added Pin To Net: NetName=NetBAT1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=CN2-1
+Added Pin To Net: NetName=NetQ23_1 Pin=Q23-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=Q24-3
+Added Pin To Net: NetName=NetBAT1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetBAT1_1 Pin=R6-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R74-1
+Added Pin To Net: NetName=NetQ23_1 Pin=R80-1
+Added Pin To Net: NetName=NetD4_1 Pin=R92-2
+Added Pin To Net: NetName=NetBAT1_1 Pin=R94-2
+Added Pin To Net: NetName=NetBAT1_1 Pin=R95-2
+Added Pin To Net: NetName=NetBAT1_1 Pin=TP25-1
+Added Pin To Net: NetName=NetD4_1 Pin=VT24-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=X1-2
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT1-4
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT1-6
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT2-1
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT2-3
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT2-5
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT2-7
+Added Pin To Net: NetName=NetBAT1_4 Pin=C24-2
+Added Pin To Net: NetName=NetBAT1_4 Pin=Q19-3
+Added Pin To Net: NetName=NetBAT1_4 Pin=Q25-3
+Added Pin To Net: NetName=NetBAT1_4 Pin=R7-1
+Added Pin To Net: NetName=NetBAT1_4 Pin=R75-1
+Added Pin To Net: NetName=NetBAT1_4 Pin=TP26-1
+Added Pin To Net: NetName=NetBAT1_4 Pin=U8-3
+Added Pin To Net: NetName=NetBAT1_4 Pin=U11-6
+Added Net: Name=NetBAT1_4
+Added Pin To Net: NetName=NetBAT1_8 Pin=BAT1-8
+Added Pin To Net: NetName=NetBAT1_8 Pin=TP24-1
+Added Net: Name=NetBAT1_8
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-4
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-6
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-8
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-3
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-5
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-7
+Added Pin To Net: NetName=NetBAT2_2 Pin=C25-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=R3-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=R8-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=TP22-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=U9-3
+Added Net: Name=NetBAT2_2
+Added Pin To Net: NetName=NetBAT3_2 Pin=BAT3-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=BAT3-4
+Added Pin To Net: NetName=NetBAT3_2 Pin=BAT3-6
+Added Pin To Net: NetName=NetBAT3_2 Pin=BAT3-8
+Added Pin To Net: NetName=NetBAT3_2 Pin=C26-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=C27-1
+Added Pin To Net: NetName=NetBAT3_2 Pin=R4-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=R5-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=R68-1
+Added Pin To Net: NetName=NetBAT3_2 Pin=R91-1
+Added Pin To Net: NetName=NetBAT3_2 Pin=TP21-1
+Added Pin To Net: NetName=NetBAT3_2 Pin=U10-3
+Added Pin To Net: NetName=NetBAT3_2 Pin=U13-6
+Added Pin To Net: NetName=NetBAT3_2 Pin=VT22-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=VT23-2
+Added Net: Name=NetBAT3_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=R6-2
+Added Pin To Net: NetName=NetC24_1 Pin=U8-2
+Added Pin To Net: NetName=NetC24_1 Pin=U11-5
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R7-2
+Added Pin To Net: NetName=NetC25_1 Pin=U9-2
+Added Pin To Net: NetName=NetC25_1 Pin=U12-5
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R8-2
+Added Pin To Net: NetName=NetC26_1 Pin=U10-2
+Added Pin To Net: NetName=NetC26_1 Pin=U13-5
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=R87-2
+Added Pin To Net: NetName=NetC27_2 Pin=VT22-1
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=CN2-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R68-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R92-1
+Added Pin To Net: NetName=NetCN1_2 Pin=R93-1
+Added Pin To Net: NetName=NetCN1_2 Pin=VT24-2
+Added Pin To Net: NetName=NetCN1_2 Pin=X1-1
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetD4_2 Pin=R84-2
+Added Pin To Net: NetName=NetD4_2 Pin=R85-2
+Added Pin To Net: NetName=NetD4_2 Pin=R86-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetQ17_2 Pin=R84-1
+Added Net: Name=NetQ17_2
+Added Pin To Net: NetName=NetQ19_1 Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_1 Pin=R77-1
+Added Net: Name=NetQ19_1
+Added Pin To Net: NetName=NetQ19_2 Pin=Q19-2
+Added Pin To Net: NetName=NetQ19_2 Pin=R85-1
+Added Net: Name=NetQ19_2
+Added Pin To Net: NetName=NetQ23_2 Pin=Q23-2
+Added Pin To Net: NetName=NetQ23_2 Pin=R86-1
+Added Net: Name=NetQ23_2
+Added Pin To Net: NetName=NetQ23_3 Pin=Q23-3
+Added Pin To Net: NetName=NetQ23_3 Pin=Q26-3
+Added Pin To Net: NetName=NetQ23_3 Pin=R78-1
+Added Pin To Net: NetName=NetQ23_3 Pin=TP27-1
+Added Pin To Net: NetName=NetQ23_3 Pin=U12-6
+Added Net: Name=NetQ23_3
+Added Pin To Net: NetName=NetQ24_1 Pin=Q24-1
+Added Pin To Net: NetName=NetQ24_1 Pin=R76-1
+Added Net: Name=NetQ24_1
+Added Pin To Net: NetName=NetQ24_2 Pin=Q24-2
+Added Pin To Net: NetName=NetQ24_2 Pin=R88-2
+Added Net: Name=NetQ24_2
+Added Pin To Net: NetName=NetQ25_1 Pin=Q25-1
+Added Pin To Net: NetName=NetQ25_1 Pin=R79-1
+Added Net: Name=NetQ25_1
+Added Pin To Net: NetName=NetQ25_2 Pin=Q25-2
+Added Pin To Net: NetName=NetQ25_2 Pin=R89-2
+Added Net: Name=NetQ25_2
+Added Pin To Net: NetName=NetQ26_1 Pin=Q26-1
+Added Pin To Net: NetName=NetQ26_1 Pin=R82-1
+Added Net: Name=NetQ26_1
+Added Pin To Net: NetName=NetQ26_2 Pin=Q26-2
+Added Pin To Net: NetName=NetQ26_2 Pin=R90-2
+Added Net: Name=NetQ26_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R83-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR74_2 Pin=R74-2
+Added Pin To Net: NetName=NetR74_2 Pin=U11-3
+Added Net: Name=NetR74_2
+Added Pin To Net: NetName=NetR75_2 Pin=R75-2
+Added Pin To Net: NetName=NetR75_2 Pin=U11-2
+Added Net: Name=NetR75_2
+Added Pin To Net: NetName=NetR76_2 Pin=R76-2
+Added Pin To Net: NetName=NetR76_2 Pin=U11-1
+Added Net: Name=NetR76_2
+Added Pin To Net: NetName=NetR77_2 Pin=R77-2
+Added Pin To Net: NetName=NetR77_2 Pin=U12-3
+Added Net: Name=NetR77_2
+Added Pin To Net: NetName=NetR78_2 Pin=R78-2
+Added Pin To Net: NetName=NetR78_2 Pin=U12-2
+Added Net: Name=NetR78_2
+Added Pin To Net: NetName=NetR79_2 Pin=R79-2
+Added Pin To Net: NetName=NetR79_2 Pin=U12-1
+Added Net: Name=NetR79_2
+Added Pin To Net: NetName=NetR80_2 Pin=R80-2
+Added Pin To Net: NetName=NetR80_2 Pin=U13-3
+Added Net: Name=NetR80_2
+Added Pin To Net: NetName=NetR81_1 Pin=R81-1
+Added Pin To Net: NetName=NetR81_1 Pin=R83-1
+Added Net: Name=NetR81_1
+Added Pin To Net: NetName=NetR81_2 Pin=R81-2
+Added Pin To Net: NetName=NetR81_2 Pin=U13-2
+Added Net: Name=NetR81_2
+Added Pin To Net: NetName=NetR82_2 Pin=R82-2
+Added Pin To Net: NetName=NetR82_2 Pin=U13-1
+Added Net: Name=NetR82_2
+Added Pin To Net: NetName=NetR87_1 Pin=R87-1
+Added Net: Name=NetR87_1
+Added Pin To Net: NetName=NetR88_1 Pin=R88-1
+Added Pin To Net: NetName=NetR88_1 Pin=R89-1
+Added Pin To Net: NetName=NetR88_1 Pin=R90-1
+Added Pin To Net: NetName=NetR88_1 Pin=VT23-1
+Added Net: Name=NetR88_1
+Added Pin To Net: NetName=NetR91_2 Pin=R91-2
+Added Pin To Net: NetName=NetR91_2 Pin=R94-1
+Added Pin To Net: NetName=NetR91_2 Pin=VT22-3
+Added Pin To Net: NetName=NetR91_2 Pin=VT23-3
+Added Net: Name=NetR91_2
+Added Pin To Net: NetName=NetR93_2 Pin=R93-2
+Added Pin To Net: NetName=NetR93_2 Pin=R95-1
+Added Pin To Net: NetName=NetR93_2 Pin=VT24-3
+Added Net: Name=NetR93_2
+Added Pin To Net: NetName=NetU8_6 Pin=U8-6
+Added Net: Name=NetU8_6
+Added Pin To Net: NetName=NetU9_6 Pin=U9-6
+Added Net: Name=NetU9_6
+Added Pin To Net: NetName=NetU10_6 Pin=U10-6
+Added Net: Name=NetU10_6
+Added Member To Class: ClassName=Batarey Member=Component BAT1 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT2 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT3 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component C24 0.1uF
+Added Member To Class: ClassName=Batarey Member=Component C25 0.1uF
+Added Member To Class: ClassName=Batarey Member=Component C26 0.1uF
+Added Member To Class: ClassName=Batarey Member=Component C27 0.1uF
+Added Member To Class: ClassName=Batarey Member=Component CN1 BAT_CON
+Added Member To Class: ClassName=Batarey Member=Component CN2 BAT_CON
+Added Member To Class: ClassName=Batarey Member=Component Q19 MMBT5401LT1G
+Added Member To Class: ClassName=Batarey Member=Component Q23 MMBT5401LT1G
+Added Member To Class: ClassName=Batarey Member=Component Q24 MMBT5401LT1G
+Added Member To Class: ClassName=Batarey Member=Component Q25 MMBT5401LT1G
+Added Member To Class: ClassName=Batarey Member=Component Q26 MMBT5401LT1G
+Added Member To Class: ClassName=Batarey Member=Component R1 47
+Added Member To Class: ClassName=Batarey Member=Component R2 47
+Added Member To Class: ClassName=Batarey Member=Component R3 47
+Added Member To Class: ClassName=Batarey Member=Component R4 0.1
+Added Member To Class: ClassName=Batarey Member=Component R5 0.1
+Added Member To Class: ClassName=Batarey Member=Component R6 100
+Added Member To Class: ClassName=Batarey Member=Component R7 100
+Added Member To Class: ClassName=Batarey Member=Component R8 100
+Added Member To Class: ClassName=Batarey Member=Component R68 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R74 1M
+Added Member To Class: ClassName=Batarey Member=Component R75 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R76 1M
+Added Member To Class: ClassName=Batarey Member=Component R77 1M
+Added Member To Class: ClassName=Batarey Member=Component R78 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R79 1M
+Added Member To Class: ClassName=Batarey Member=Component R80 1M
+Added Member To Class: ClassName=Batarey Member=Component R81 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R82 1M
+Added Member To Class: ClassName=Batarey Member=Component R83 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R84 1M
+Added Member To Class: ClassName=Batarey Member=Component R85 1M
+Added Member To Class: ClassName=Batarey Member=Component R86 1M
+Added Member To Class: ClassName=Batarey Member=Component R87 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R88 1M
+Added Member To Class: ClassName=Batarey Member=Component R89 1M
+Added Member To Class: ClassName=Batarey Member=Component R90 1M
+Added Member To Class: ClassName=Batarey Member=Component R91 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R92 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R93 RC0805FR-07100KL
+Added Member To Class: ClassName=Batarey Member=Component R94 33K
+Added Member To Class: ClassName=Batarey Member=Component R95 33K
+Added Member To Class: ClassName=Batarey Member=Component TP21 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP22 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP26 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP27 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component U8 HY2213
+Added Member To Class: ClassName=Batarey Member=Component U9 HY2213
+Added Member To Class: ClassName=Batarey Member=Component U10 HY2213
+Added Member To Class: ClassName=Batarey Member=Component U11 HY2210-CB
+Added Member To Class: ClassName=Batarey Member=Component U12 HY2210-CB
+Added Member To Class: ClassName=Batarey Member=Component U13 HY2210-CB
+Added Member To Class: ClassName=Batarey Member=Component VT22 MMBT5551
+Added Member To Class: ClassName=Batarey Member=Component VT23 MMBT5551
+Added Member To Class: ClassName=Batarey Member=Component VT24 MMBT5551
+Added Member To Class: ClassName=Batarey Member=Component X1 XT60-F

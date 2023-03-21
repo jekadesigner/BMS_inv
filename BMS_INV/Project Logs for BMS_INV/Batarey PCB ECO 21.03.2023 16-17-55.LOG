@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=Batarey Member=VT14
+Removed Member From Class: ClassName=Batarey Member=VT15
+Removed Member From Class: ClassName=Batarey Member=VT16
+Removed Member From Class: ClassName=Batarey Member=VT17
+Removed Member From Class: ClassName=Batarey Member=VT18
+Removed Member From Class: ClassName=Batarey Member=VT19
+Removed Member From Class: ClassName=Batarey Member=VT20
+Removed Member From Class: ClassName=Batarey Member=VT21
+Added Component: Designator=VT4(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT7(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT8(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT9(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT10(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT11(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR93_2 Pin=VT4-1
+Added Pin To Net: NetName=NetCN1_2 Pin=VT4-2
+Added Pin To Net: NetName=NetR87_1 Pin=VT4-3
+Added Pin To Net: NetName=NetR91_2 Pin=VT5-1
+Added Pin To Net: NetName=NetR87_1 Pin=VT5-2
+Added Pin To Net: NetName=NetR4_1 Pin=VT5-3
+Added Pin To Net: NetName=NetR93_2 Pin=VT6-1
+Added Pin To Net: NetName=NetCN1_2 Pin=VT6-2
+Added Pin To Net: NetName=NetR87_1 Pin=VT6-3
+Added Pin To Net: NetName=NetR91_2 Pin=VT7-1
+Added Pin To Net: NetName=NetR87_1 Pin=VT7-2
+Added Pin To Net: NetName=NetR93_2 Pin=VT8-1
+Added Pin To Net: NetName=NetCN1_2 Pin=VT8-2
+Added Pin To Net: NetName=NetR87_1 Pin=VT8-3
+Added Pin To Net: NetName=NetR91_2 Pin=VT9-1
+Added Pin To Net: NetName=NetR87_1 Pin=VT9-2
+Added Pin To Net: NetName=NetR4_1 Pin=VT9-3
+Added Pin To Net: NetName=NetR93_2 Pin=VT10-1
+Added Pin To Net: NetName=NetCN1_2 Pin=VT10-2
+Added Pin To Net: NetName=NetR87_1 Pin=VT10-3
+Added Pin To Net: NetName=NetR91_2 Pin=VT11-1
+Added Pin To Net: NetName=NetR87_1 Pin=VT11-2
+Added Pin To Net: NetName=NetR4_1 Pin=VT11-3
+Added Member To Class: ClassName=Batarey Member=Component VT4 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT5 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT6 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT7 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT8 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT9 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT10 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT11 IPB60R600P6

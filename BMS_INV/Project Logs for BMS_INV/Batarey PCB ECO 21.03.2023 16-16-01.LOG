@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Batarey Member=VT11
+Removed Member From Class: ClassName=Batarey Member=VT12
+Removed Member From Class: ClassName=Batarey Member=VT13
+Added Component: Designator=VT1(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(TO-263-3)
+Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU9_6 Pin=VT1-1
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=VT1-3
+Added Pin To Net: NetName=NetU10_6 Pin=VT2-1
+Added Pin To Net: NetName=NetR3_2 Pin=VT2-2
+Added Pin To Net: NetName=NetBAT3_2 Pin=VT2-3
+Added Pin To Net: NetName=NetU8_6 Pin=VT3-1
+Added Pin To Net: NetName=NetR1_2 Pin=VT3-2
+Added Pin To Net: NetName=NetBAT1_4 Pin=VT3-3
+Added Member To Class: ClassName=Batarey Member=Component VT1 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT2 IPB60R600P6
+Added Member To Class: ClassName=Batarey Member=Component VT3 IPB60R600P6
