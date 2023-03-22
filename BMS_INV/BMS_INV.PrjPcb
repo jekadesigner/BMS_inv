@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BYKBPWYK
 
 [Document7]
-DocumentPath=Libs\21700_BAT.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ESLUSCOU
-
-[Document8]
 DocumentPath=Libs\SamacSys\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,8 +159,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document9]
-DocumentPath=Libs\21700_Bat.SchLib
+[Document8]
+DocumentPath=Libs\21700_BAT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,9 +174,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZNKOMMJU
+DocumentUniqueId=ESLUSCOU
 
-[Document10]
+[Document9]
 DocumentPath=Libs\HY2210-CB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUJGAPBU
 
-[Document11]
+[Document10]
 DocumentPath=Libs\MOSFET_POWER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHTIVVWX
 
-[Document12]
+[Document11]
 DocumentPath=Libs\Batarey_connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPSNQGKA
 
-[Document13]
+[Document12]
 DocumentPath=Libs\Res_TE Connectivity_CRGCQ1210F2K7\parts\Res_TE_Connectivity_CRGCQ1210F2K7_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WITLADTH
 
-[Document14]
+[Document13]
 DocumentPath=Libs\SamacSys\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document15]
+[Document14]
 DocumentPath=Libs\Standard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XIVPSXOG
 
-[Document16]
+[Document15]
 DocumentPath=Libs\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASFJWWTK
 
-[Document17]
+[Document16]
 DocumentPath=Libs\TEST_POINT_CONN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIQMCFUU
 
-[Document18]
+[Document17]
 DocumentPath=Libs\Res_TE Connectivity_CRGCQ1210F2K7\parts\Res_TE_Connectivity_CRGCQ1210F2K7_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,6 +328,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRQPKVSQ
+
+[Document18]
+DocumentPath=Libs\21700_Bat.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZNKOMMJU
 
 [Document19]
 DocumentPath=Libs\HY2213.PcbLib
