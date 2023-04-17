@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BMS_INV.PrjPcb]
+   Generated File[Batarey.TXT]
+   Generated File[Batarey.LDP]
+   Generated File[Batarey.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:59:16 On 24.03.2023

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR29_2 Pin=VT4-1
+Removed Pin From Net: NetName=GND Pin=VT4-2
+Removed Pin From Net: NetName=NetR23_1 Pin=VT4-3
+Change Component Footprint: Designator=VT4 Old Footprint=TO-263-3 New Footprint=Infineon_Technologies_PG-TO252-3_MFG
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "TO-263-3"; UniqueID = "\CTTGVJJZ" ("\CTTGVJJZ")
+Change component parameters (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, Infineon_Technologies_PG-TO252-3_MFG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Infineon_Technologies_PG-TO252-3_MFG"; VariantName = "[No Variations]"

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Batarey.GBR   24.03.2023  12:57:28
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top Courtyard                           
+.GM3                Bottom Courtyard                        
+.GM4                Top 3D Body                             
+.GM5                Mechanical 5                            
+.GM6                Bottom 3D Body                          
+.GM7                Top Assembly                            
+.GM8                Bottom Assembly                         
+.GM9                Top Component Outline                   
+.GM10               Mechanical 10                           
+.GM11               Bottom Component Outline                
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
