@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=X1-1
-Removed Pin From Net: NetName=NetBAT1_1 Pin=X1-2
-Change Component Footprint: Designator=TP5 Old Footprint=TEST_POINT_CONN New Footprint=Test_Point
-Change Component Footprint: Designator=TP8 Old Footprint=TEST_POINT_CONN New Footprint=Test_Point
-Added Pin To Net: NetName=GND Pin=X1-2

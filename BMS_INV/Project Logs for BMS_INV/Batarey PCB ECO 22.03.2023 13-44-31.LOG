@@ -1,7 +1,0 @@
-Change Component Footprint: Designator=TP5 Old Footprint=Test_Point New Footprint=TEST_POINT_CONN
-Change Component Footprint: Designator=TP8 Old Footprint=Test_Point New Footprint=TEST_POINT_CONN
-Added Member To Class: ClassName=Batarey Member=Component R1 RC0805FR-07100KL
-Added Member To Class: ClassName=Batarey Member=Component R3 47
-Added Member To Class: ClassName=Batarey Member=Component R5 0.1
-Added Member To Class: ClassName=Batarey Member=Component R7 100
-Added Member To Class: ClassName=Batarey Member=Component VT11 MMBT5551

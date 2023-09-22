@@ -1,6 +1,0 @@
-Added Component: Designator=VT11(TO-263-3)
-Add component (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Batarey Member=Component VT11 IPB60R600P6
