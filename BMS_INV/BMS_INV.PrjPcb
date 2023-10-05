@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PAEPDQLE
 
 [Document5]
-DocumentPath=Batarey.PcbDoc
+DocumentPath=BMS_INV.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CATWBDME
 
 [Document6]
-DocumentPath=Batarey.SchDoc
+DocumentPath=BMS_INV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,6 +144,10 @@ DocumentUniqueId=BOMJLLIK
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BMS_INV\Design Rule Check - Batarey.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BMS_INV\Design Rule Check - BMS_INV.html
 DItemRevisionGUID=
 
 [Configuration1]
