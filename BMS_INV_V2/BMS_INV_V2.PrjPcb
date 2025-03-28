@@ -159,6 +159,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for BMS_INV\Design Rule Check - BMS_INV.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for BMS_INV_V2\Design Rule Check - BMS_INV_V2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
